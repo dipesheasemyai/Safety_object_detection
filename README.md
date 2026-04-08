@@ -1,4 +1,4 @@
-# Safety Object Detection 
+## Safety Object Detection 
 
 ## Features 
 - JSON to YOLO format conversion

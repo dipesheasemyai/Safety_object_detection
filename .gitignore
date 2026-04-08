@@ -1,6 +1,11 @@
 test_venv/
 outputs/
 models/*.pt
-data
+data/
+*.jpg
+*.png
+*.jpeg
+*.json
+*.txt
 
 

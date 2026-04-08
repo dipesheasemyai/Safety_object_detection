@@ -1,0 +1,20 @@
+path: /home/easemyai/Yolo_model/task/dataset
+
+train: images/train
+val: images/val
+
+nc: 12
+
+names:
+  0: head
+  1: face
+  2: hand
+  3: gloves
+  4: mask
+  5: helmet
+  6: safety_goggle
+  7: sunglass_goggle
+  8: vest
+  9: spectales
+  10: safety_shoes
+  11: casual_shoes

@@ -2,10 +2,5 @@ test_venv/
 outputs/
 models/*.pt
 data/
-*.jpg
-*.png
-*.jpeg
-*.json
-*.txt
 
 
